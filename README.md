@@ -60,5 +60,9 @@ https://github.com/eregalado92/beach-buddy-android/wiki
 - [ ] Alerts + notifications
 - [ ] Replace mocks with live data
 
+## 📝 Changelog
+- **v0.3 (Week 4):** Updated outline and wireframes; clarified data models and security; added `.gitignore`; verified links.
+- **v0.2 (Week 3):** Repo + initial README; Wiki pages (Home/Architecture/Design/Milestones/Testing/Risks) and sidebar created.
+
 ## 📄 License
 MIT
