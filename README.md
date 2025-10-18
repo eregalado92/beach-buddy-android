@@ -52,6 +52,8 @@ EXPO_PUBLIC_FIREBASE_APP_ID=...
 ## 📚 Documentation / Wiki
 Main outline, architecture details, and wireframes live in the Wiki:  
 https://github.com/eregalado92/beach-buddy-android/wiki
+- Wireframes: **[Design / Wireframes](https://github.com/eregalado92/beach-buddy-android/wiki/Design-/-Wireframes)**
+
 
 ## 🗺️ Roadmap
 - [x] Outline & mock data
