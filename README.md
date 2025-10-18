@@ -52,6 +52,8 @@ EXPO_PUBLIC_FIREBASE_APP_ID=...
 ## 📚 Documentation / Wiki
 Main outline, architecture details, and wireframes live in the Wiki:  
 https://github.com/eregalado92/beach-buddy-android/wiki
+- Demo APK (Release): [Download](https://github.com/eregalado92/beach-buddy-android/releases/download/v0.1.0/BeachBuddy-demo.apk) • QR: ![QR](./docs/apk/apk-qr.png)
+- Portfolio Publication: **[Wiki](https://github.com/eregalado92/beach-buddy-android/wiki/Portfolio-Publication)**
 - Wireframes: **[Design / Wireframes](https://github.com/eregalado92/beach-buddy-android/wiki/Design-/-Wireframes)**
 
 
