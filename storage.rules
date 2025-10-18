@@ -1,0 +1,19 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Session photos: userContent/{uid}/sessions/{sessionId}/...
+    match /userContent/{uid}/sessions/{sessionId}/{file=**} {
+      allow read, write: if isSignedIn() && request.auth.uid == uid;
+    }
+
+    // Default deny everything else
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}
